@@ -35,3 +35,4 @@ tqdm                    # multiple
 ujson                   # multiple
 urllib3                 # multiple
 porch-pirate            # Tool
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
