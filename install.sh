@@ -78,7 +78,7 @@ gotools["ppmap"]="go install -v github.com/kleiton0x00/ppmap@latest"
 
 # Declaring repositories and their paths
 declare -A repos
-repos["dorks_hunter"]="six2dez/dorks_hunter"
+repos["dorks_hunter"]="lukeswitz/dorks_hunter"
 repos["dnsvalidator"]="vortexau/dnsvalidator"
 repos["interlace"]="codingo/Interlace"
 repos["wafw00f"]="EnableSecurity/wafw00f"
