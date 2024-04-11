@@ -38,3 +38,4 @@ porch-pirate            # Tool
 p1radup                 # Tool
 git+https://github.com/xnl-h4ck3r/waymore.git                 # Tool
 git+https://github.com/xnl-h4ck3r/xnLinkFinder.git            # Tool
+validators>=0.21.0 # not directly required, pinned by Snyk to avoid a vulnerability
